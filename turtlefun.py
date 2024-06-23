@@ -9,8 +9,7 @@ for i in range(4):
   for i in range(4):
     t.rt(-90)
     t.forward(20)
-# All of your turtle commands
-# go in this space here.
+
 
 
 turtle.mainloop()      # should be last line of program
